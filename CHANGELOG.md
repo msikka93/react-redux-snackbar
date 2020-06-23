@@ -4,4 +4,4 @@
 
 ## [0.0.1] - Unreleased
 ### Added
-- react-redux-popup
+- react-redux-snackbar

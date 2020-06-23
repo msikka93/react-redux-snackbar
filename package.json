@@ -1,5 +1,5 @@
 {
-    "name": "react-redux-popup",
+    "name": "react-redux-snackbar",
     "description": "A dialog for reactjs using the redux state container",
     "main": "./dist/index.js",
     "author": "Gaurav Sikka",
