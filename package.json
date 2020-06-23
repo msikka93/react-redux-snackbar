@@ -1,0 +1,33 @@
+{
+    "name": "react-redux-popup",
+    "description": "A dialog for reactjs using the redux state container",
+    "main": "./dist/index.js",
+    "author": "Gaurav Sikka",
+    "private": true,
+    "version": "0.0.1",
+    "files": [
+        "dist",
+        "CHANGELOG.md",
+        "README.md"
+    ],
+    "scripts": {
+        "build": "babel src --out-dir dist"
+    },
+    "peerDependencies": {
+        "react": "*",
+        "redux": "*",
+        "@material-ui/core": "^4.10.2",
+        "@material-ui/lab": "^4.0.0-alpha.56"
+    },
+    "devDependencies": {
+        "babel-cli": "^6.24.1",
+        "babel-preset-babili": "^0.1.4",
+        "babel-preset-es2015": "^6.24.1",
+        "babel-preset-react": "^6.24.1",
+        "babel-preset-stage-0": "^6.24.1",
+        "react": "^16.5.2",
+        "react-dom": "^16.5.2",
+        "react-redux": "^5.0.4",
+        "redux": "^4.0.0"
+    }
+}
