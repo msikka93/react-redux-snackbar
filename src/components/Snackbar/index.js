@@ -1,2 +1,2 @@
-import Snackbar from './Snackbar.jsx'
+import Snackbar from './Snackbar.js'
 export default Snackbar

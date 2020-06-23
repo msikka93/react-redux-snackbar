@@ -4,7 +4,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _Snackbar = require('./Snackbar.jsx');
+var _Snackbar = require('./Snackbar.js');
 
 var _Snackbar2 = _interopRequireDefault(_Snackbar);
 
